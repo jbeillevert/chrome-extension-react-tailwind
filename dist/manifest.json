@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Dca.ai",
+    "description": "DCA.ai optimise votre stratégie d'investissement en calculant le nombre exact d'actions à acheter pour chaque actif dans votre portefeuille selon la méthode du Dollar Cost Averaging. Prenez des décisions éclairées en toute simplicité.",
+    "version": "1.0",
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "./ICON-DCA.png"
+    }
+  }
